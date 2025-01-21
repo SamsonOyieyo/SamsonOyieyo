@@ -5,7 +5,7 @@ I am Samson Oyieyo
 
 ## About Me
 - 👨🏽‍🏫 I am currently a student
-- 📚 I enjoy reading in my free time. Here is my [Goodreads](https://goodreads.com/iloveeeemangoes) account.
+- 📚 I enjoy reading in my free time. Here is my [StoryGraph](https://app.thestorygraph.com/profile/ilovemangoes) account.
 - 🎶 Big fan of Taylor Swift's music
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=iloveeeemangoes)
